@@ -1,29 +1,83 @@
-commit a8cd59cc2183ef660baba9cbe3ec1114c6b9cc3e
-Author: tadimarrishahameer@gmail.com <tadimarrishahameer@gmail.com>
-Date:   Fri Jan 20 13:26:23 2017 +0000
-
-    just to c commit
-
-commit d9bcbe7a491d05a07c38ae75b068d2b1faa70713
-Author: tadimarrishahameer@gmail.com <tadimarrishahameer@gmail.com>
-Date:   Fri Jan 20 12:57:05 2017 +0000
-
-    added 20 jan
-
-commit 07bb6ea50f623b1154540f20ff3a530ebf6e8355
-Author: tadimarrishahameer@gmail.com <tadimarrishahameer@gmail.com>
-Date:   Tue Jan 17 16:17:35 2017 +0000
-
-    this is fruits file
-
-commit 6a0690c4ae3127d6c96e30f1f95d25ebbd02f306
-Author: tadimarrishahameer@gmail.com <tadimarrishahameer@gmail.com>
-Date:   Tue Jan 17 15:24:12 2017 +0000
-
-    this is filename | and this is index file of html
-
-commit 7aaa1eea016b24d9d23ef9e01dc4dfea36c78d18
-Author: tadimarrishahameer@gmail.com <tadimarrishahameer@gmail.com>
-Date:   Tue Jan 17 15:05:54 2017 +0000
-
-    .bashrc file is added in googlegit
+architecture => amd64
+bios_release_date => 01/01/2011
+bios_vendor => Google
+bios_version => Google
+blockdevice_sda_model => PersistentDisk
+blockdevice_sda_size => 10737418240
+blockdevice_sda_vendor => Google
+blockdevices => sda
+boardmanufacturer => Google
+boardproductname => Google Compute Engine
+boardserialnumber => Not Specified
+domain => c.hale-lantern-486.internal
+facterversion => 1.7.5
+filesystems => ext2,ext3,ext4,squashfs,vfat
+fqdn => ubuntu-trusty-1.c.hale-lantern-486.internal
+hardwareisa => x86_64
+hardwaremodel => x86_64
+hostname => ubuntu-trusty-1
+id => root
+interfaces => eth0,lo
+ipaddress => 10.138.0.2
+ipaddress_eth0 => 10.138.0.2
+ipaddress_lo => 127.0.0.1
+is_virtual => false
+kernel => Linux
+kernelmajversion => 4.4
+kernelrelease => 4.4.0-59-generic
+kernelversion => 4.4.0
+lsbdistcodename => trusty
+lsbdistdescription => Ubuntu 14.04.5 LTS
+lsbdistid => Ubuntu
+lsbdistrelease => 14.04
+lsbmajdistrelease => 14
+macaddress => 42:01:0a:8a:00:02
+macaddress_eth0 => 42:01:0a:8a:00:02
+manufacturer => Google
+memoryfree => 3.51 GB
+memoryfree_mb => 3593.59
+memorysize => 3.61 GB
+memorysize_mb => 3700.07
+memorytotal => 3.61 GB
+mtu_eth0 => 1460
+mtu_lo => 65536
+netmask => 255.255.255.255
+netmask_eth0 => 255.255.255.255
+netmask_lo => 255.0.0.0
+network_eth0 => 10.138.0.2
+network_lo => 127.0.0.0
+operatingsystem => Ubuntu
+operatingsystemrelease => 14.04
+osfamily => Debian
+path => /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+physicalprocessorcount => 1
+processor0 => Intel(R) Xeon(R) CPU @ 2.20GHz
+processorcount => 1
+productname => Google Compute Engine
+ps => ps -ef
+rubysitedir => /usr/local/lib/site_ruby/1.9.1
+rubyversion => 1.9.3
+selinux => false
+serialnumber => GoogleCloud-837BB665ECB90D7510B3ABD1C8D97B54
+sshdsakey => AAAAB3NzaC1kc3MAAACBAOQdOWnQhmOvrs5S/OK4+cXwY25M8qHcv6t7sNDopLHDvyyG1NdW1v+y6xb56o00j0bbZ0sI0IXQFWnNrkTrdo85n0HdLzs380+tC94acBkaqREqo8bPe/BXaujyaS3ONbzWb6HjRfHv4N4UkJ4AGrul2Xzf7++Z5GrjABfPERxdAAAAFQCQdaRRZcHlxG4j7X0KpZbL6eWyjQAAAIBahQrfYK7EscOwc2sGQP4qo+cZd+ENWvsnzUmz+qHxPri3ea5WKipXb9+Eoqf5BUFNsByhKc6WGtpmREGtldlBwP/TrCdi8PtKXD8c/3qRrdOV1CejAj1mnymn6WHYqrk5WcZ3o0L1u7diPPk1hnbGr0iv44rA03nEZO5tZg+gpAAAAIEAg0XQXyJmOoghdFGiFpV8X7QxhJOzKrp2uiWq0/xcn4656UmStStoEGjQAhJm4pxk6lIijlJ93bcjg5ZdAWjKhK6deKKxejbOCNOI9BpGTnyN0znZXdohUPnYtKlzR0JOPMx3JUXGLq6S2LFkmFw+kMF5X8Z3rgU0503Dq8M9qOU=
+sshecdsakey => AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLnRTLR0whG8XV3r4awVYS1zdAcn4/RtHq2TQ18vD7neYCjb0hXpkcBsuMXYnx2hzamW0arLLh3rgCOiFbQqukM=
+sshfp_dsa => SSHFP 2 1 40b012dca2ab7cb4d60abf3730a1b53848e2497a
+SSHFP 2 2 2b373c38f9e05586f5241e4180182e775654a9527f57b369b0a843502c062326
+sshfp_ecdsa => SSHFP 3 1 6a5cfe411aa42443721ca36412f5d6c354be17d2
+SSHFP 3 2 f89795814a1c92fb9bb2789f8e544df898ff9fafc745a0bf4a24bceb65a82736
+sshfp_rsa => SSHFP 1 1 058b0f176961fc3b6e9d2435c4ab7f4d3732fd1b
+SSHFP 1 2 31ea08c1ff484a118d8d6c50573d45d96ae1df5e7ca3bfa7bf8b2421afd32a2c
+sshrsakey => AAAAB3NzaC1yc2EAAAADAQABAAABAQC6MSOG4O+escNl94klvWOkg4Q+WcYd46oUqbsSYurLtLHTzcSG+NPpGd8o7qoymDDDGqZMzerpKR5sAAJfIIjLpxLTz+SPwuYiLj5broxSEF9odGmQLxaTiQ1X3IayfAcJ7gjq8FVLFpzSRdplnIcGPTk0mfRMBpupNecbKD7h16/Pm3j12dvbC7zmmamsFK5rSRTOeW0VLZsr6RTer9ABUc8yYQhOs5Ih9d86juCuk5uUUB3z1ETgEVdLPKPsyh7UpTyqvN4KKnBwktf1OQZ9gxEWUOoFqvua7XysgtVKkHGQWHTqkXUfpRWCfJNKB/Ay4EP9prDOxhg7AmazdK//
+swapfree => 0.00 MB
+swapfree_mb => 0.00
+swapsize => 0.00 MB
+swapsize_mb => 0.00
+timezone => UTC
+type => Other
+uniqueid => 8a0a0200
+uptime => 1:02 hours
+uptime_days => 0
+uptime_hours => 1
+uptime_seconds => 3749
+uuid => 837BB665-ECB9-0D75-10B3-ABD1C8D97B54
+virtual => physical
